@@ -5,6 +5,8 @@
 - https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf
 ### Bitcoin
 - https://bitcoin.org/bitcoin.pdf
+### Cardano
+- https://whycardano.com/
 ### Dash
 - https://github.com/dashpay/dash/wiki/Whitepaper
 ### Ethereum
