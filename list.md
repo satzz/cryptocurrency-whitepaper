@@ -1,3 +1,4 @@
+## Currencies
 ### ALIS
 - https://alisproject.github.io/whitepaper/whitepaper_v1.01.pdf
 - ja:  https://medium.com/@alismedia/whitepaper%E3%81%AE%E8%A6%81%E6%89%80%E3%82%923%E5%88%86%E3%81%A7%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%99%E3%82%8B-fff453986ebe
@@ -38,3 +39,8 @@
 - http://zerocash-project.org/paper
 - http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf
 - https://github.com/zcash/mpc/blob/master/whitepaper.pdf
+
+## Ideas
+### Proof of Stake
+- http://block-chain.jp/tech/proof-of-stake/
+
