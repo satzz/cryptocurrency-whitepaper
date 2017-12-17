@@ -12,13 +12,20 @@
 ### Factom
 - https://github.com/FactomProject/FactomDocs/blob/master/whitepaper.md
 - https://github.com/FactomProject/FactomDocs/blob/master/Factom_Whitepaper.pdf
+### IOTA
+- https://iota.org/IOTA_Whitepaper.pdf
 ### Lisk
 - https://docs.lisk.io/docs/the-lisk-protocol
+### Litecoin
+- https://litecoin.org/
 ### Monero
 - https://getmonero.org/resources/research-lab/
 ### NEM
 - https://nem.io/wp-content/themes/nem/files/ApostilleWhitePaper.pdf
 - ja: https://www.cryptostream.jp/nem-apostille-whitepaper-japanese-3171/
+### NEO
+- http://docs.neo.org/en-us/
+- ja: http://docs.neo.org/ja-jp/
 ### Ripple
 - https://ripple.com/files/ripple_consensus_whitepaper.pdf
 ### Steem
