@@ -10,6 +10,8 @@
 - https://blockstack.org/whitepaper.pdf
 ### Cardano
 - https://whycardano.com/
+### Crypterium
+- https://crypterium.io/wp/index.html?v=1.38
 ### Dash
 - https://github.com/dashpay/dash/wiki/Whitepaper
 ### Ethereum
