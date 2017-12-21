@@ -31,6 +31,8 @@
 ### NEO
 - http://docs.neo.org/en-us/
 - ja: http://docs.neo.org/ja-jp/
+### Pangea Arbitration Token
+- https://github.com/Bit-Nation/Pangea-Arbitration-Token-PAT/raw/master/BITNATION%20Pangea%20Whitepaper%202017.pdf
 ### Ripple
 - https://ripple.com/files/ripple_consensus_whitepaper.pdf
 ### Steem
