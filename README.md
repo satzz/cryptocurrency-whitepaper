@@ -12,6 +12,8 @@
 - https://whycardano.com/
 ### Crypterium
 - https://crypterium.io/wp/index.html?v=1.38
+### The DAO
+- https://download.slock.it/public/DAO/WhitePaper.pdf
 ### Dash
 - https://github.com/dashpay/dash/wiki/Whitepaper
 ### Ethereum
