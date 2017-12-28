@@ -51,4 +51,6 @@
 ## Ideas
 ### Proof of Stake
 - http://block-chain.jp/tech/proof-of-stake/
+### Delegated Proof-of-Stake Consensus
+- https://bitshares.org/technology/delegated-proof-of-stake-consensus/
 
